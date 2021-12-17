@@ -1,6 +1,10 @@
 {
     "status": true,
     "namemap": {
+        "South Korea": "韩国",
+        "Singapore": "新加坡",
+        "Hong Kong": "香港",
+        "Taiwan": "台湾",
         "Afghanistan": "阿富汗",
         "Angola": "安哥拉",
         "Albania": "阿尔巴尼亚",
@@ -191,6 +195,18 @@
         "Zimbabwe": "津巴布韦"
     },
     "dataArr": [
+        {
+            "name": "新加坡",
+            "value": 0
+        },
+        {
+            "name": "香港",
+            "value": 28397.812
+        },
+        {
+            "name": "台湾",
+            "value": 28397.812
+        },
         {
             "name": "阿富汗",
             "value": 28397.812
