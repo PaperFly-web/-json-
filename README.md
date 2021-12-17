@@ -26,6 +26,7 @@
 │   ├── city.json               // 市
 │   ├── area.json               // 区
 │   └── region.json             // 包含所有省市区数据
+│   └── world.json             // 世界各个国家已经港澳台
 ├── sql                         // mysql文件目录
 │   ├── province.sql            // 省
 │   ├── city.sql                // 市
@@ -43,13 +44,4 @@ mysql -uroot -p --default-character-set=utf8 dbname < /path/community.sql
 
 
 
-有问题请提issue，持续更新中.........
-
----
-生活不易，打个广告：博主业余兼职开发小程序、网站、商城、APP，有需要的请加我微信，请备注gitee
-
-<div style="display: flex;justify-content: center;">
-    <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-16bf85f1-2181-4870-ac73-b170c68d178c/9a095a7c-a4e0-419f-a384-ddca625c9a35.png" alt="扫码加我微信" title="扫码加我微信" style="zoom:80%;" />
-    <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-16bf85f1-2181-4870-ac73-b170c68d178c/0721e41d-ea66-4ab8-9ab2-52a48e9231a2.png" alt="阿里云" title="阿里云" style="zoom:80%;" />
-    <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-16bf85f1-2181-4870-ac73-b170c68d178c/4077f381-c7e1-4219-87c9-e8902e789fbd.png" alt="腾讯云" title="腾讯云" style="zoom:80%;" />
-</div>
+### 克隆来源 https://gitee.com/gaohuazi/china_regions
